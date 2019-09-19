@@ -6,5 +6,6 @@ ipconfig /all
 #Third comment
 dir
 
-
+#v0.4
+flushdns
 
