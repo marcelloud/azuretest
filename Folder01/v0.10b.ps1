@@ -13,7 +13,9 @@ dir
 #v0.4
 flushdns
 
-#v0.5
+#v0.10b
+
+
 
 
 
