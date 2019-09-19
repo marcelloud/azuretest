@@ -9,3 +9,7 @@ dir
 #v0.4
 flushdns
 
+#v0.5
+
+
+
